@@ -1,3 +1,5 @@
+'''Module with functions to operate on numbers'''
+
 def add(a: int, b: int) -> int:
     '''Function to add two numbers'''
     return a + b
